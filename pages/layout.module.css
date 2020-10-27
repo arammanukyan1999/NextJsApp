@@ -1,0 +1,23 @@
+.container{
+    background-color:whitesmoke;
+    border-radius: 20px;
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
+    border: 2px solid wheat;
+    margin-bottom:10px;
+
+}
+.customLink{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #4caf50;
+    margin-right: 30px;
+  }
+  .customLink:hover{
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #4caf50;
+  }

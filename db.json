@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {"id": 1, "title": "What is Lorem Ipsum?", "text": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the","date":"15/2/2020/14:23"},
+    {"id": 2, "title": "What is Lorem Ipsum?", "text": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the","date":"15/2/2020/14:23"},
+    {"id": 3, "title": "What is Lorem Ipsum?", "text": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the","date":"18/12/2020/16:23"},
+    {"id": 4, "title": "What is Lorem Ipsum?", "text": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the","date":"18/12/2020/16:23"},
+    {"id": 5, "title": "What is Lorem Ipsum?", "text": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the","date":"18/12/2020/16:23"},
+    {"id": 6, "title": "What is Lorem Ipsum?", "text": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the","date":"18/12/2020/16:23"},
+    {"id": 7, "title": "What is Lorem Ipsum?", "text": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the","date":"15/2/2020/14:23"},
+    {"id": 8, "title": "What is Lorem Ipsum?", "text": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.","date":"15/2/2020/14:23"},
+    {"id": 9, "title": "What is Lorem Ipsum?", "text": "Еis simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the ","date":"18/12/2020/16:23"},
+    {"id": 10, "title": "What is Lorem Ipsum?", "text": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the","date":"18/12/2020/16:23"}
+
+  ]
+
+}
